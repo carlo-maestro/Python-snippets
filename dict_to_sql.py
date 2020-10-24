@@ -1,8 +1,6 @@
 # Automate process adding record to sqlite
 # Script takes fields and values from dictionary
 # no need for manual assigning records
-# NOT SECURE simply proof of concept
-#
 
 
 import sqlite3
